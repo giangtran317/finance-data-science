@@ -40,7 +40,6 @@ Optuna improved PR AUC by **+2.6%** over the baseline.
 ## Project Structure
 ```
 ├── ccfraud.ipynb       # Main notebook
-├── ccfraud.py          # Python script version
 ├── README.md
 └── .gitignore
 ```
