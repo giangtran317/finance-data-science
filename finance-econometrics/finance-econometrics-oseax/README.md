@@ -68,4 +68,4 @@ pip install yfinance pandas numpy scipy statsmodels matplotlib seaborn tabulate
 
 ## Author
 
-Huong Giang Tran — MSc Finance, University College Dublin (2024–2025)
+Huong Giang Tran — MSc Financial Data Science, University College Dublin (2024–2025)
